@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gres: #C87D65;
+  --color-terracotta: #E06D53;
+  --color-nude: #FDF8F5;
+  --color-noir-mat: #1C1A1A;
+}
+
+body {
+  background-color: var(--color-nude);
+  color: var(--color-noir-mat);
+  font-family: system-ui, -apple-system, sans-serif;
+}
