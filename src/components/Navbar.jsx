@@ -56,7 +56,7 @@ export default function Navbar() {
           {/* Bouton RDV & Contact Rapide */}
           <div className="hidden md:flex items-center gap-4">
             <a
-              href="tel:+33388000000"
+              href="tel:+33761182185"
               className="p-2.5 rounded-full text-noirMat hover:text-terracotta hover:bg-terracotta/10 transition-all"
               title="Nous appeler"
             >

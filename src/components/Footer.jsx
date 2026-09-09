@@ -41,7 +41,7 @@ export default function Footer() {
                 </span>
               </div>
               <p className="text-white/70 text-sm max-w-lg leading-relaxed">
-                Votre salon de coiffure haute exigence à Strasbourg. Expertise visagisme, balayages d'exception et soins capillaires naturels au cœur de la capitale alsacienne.
+                Votre salon de coiffure haute exigence à Strasbourg. Expertise visagisme, Soins capillaires naturels au cœur de la capitale alsacienne.
               </p>
             </div>
 
@@ -60,7 +60,7 @@ export default function Footer() {
                   </li>
                   <li className="flex items-center gap-3">
                     <Phone className="w-4 h-4 text-terracotta flex-shrink-0" />
-                    <a href="tel:+33388000000" className="hover:text-terracotta transition-colors">
+                    <a href="tel:+33761182185" className="hover:text-terracotta transition-colors">
                       +33 7 61 18 21 85
                     </a>
                   </li>
@@ -84,10 +84,10 @@ export default function Footer() {
                     <span className="font-medium">Lundi — Samedi</span>
                     <span>10h00 – 19h00</span>
                   </li>
-                  <li className="flex justify-between py-1 border-b border-white/10">
+                  {/*<li className="flex justify-between py-1 border-b border-white/10">
                     <span className="font-medium">Dimanche</span>
                     <span>11h00 – 16h30</span>
-                  </li>
+                  </li>*/}
                 </ul>
               </div>
 

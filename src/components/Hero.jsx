@@ -96,7 +96,7 @@ export default function Hero() {
             </h1>
 
             <p className="text-base sm:text-lg text-noir-mat/80 max-w-2xl leading-relaxed">
-              Une expérience capillaire sur-mesure où l'élégance alsacienne rencontre l'expertise haute coiffure. Colorations végétales, balayages signature et coupes structurées.
+              Une expérience capillaire sur-mesure où l'élégance alsacienne rencontre l'expertise haute coiffure. Colorations végétales, coupes structurées.
             </p>
 
             <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-4 pt-2">
